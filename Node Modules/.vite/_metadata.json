@@ -1,0 +1,16 @@
+{
+  "hash": "9da57c4f",
+  "browserHash": "1cd95440",
+  "optimized": {
+    "three/examples/jsm/controls/OrbitControls": {
+      "file": "/Users/bramd/Desktop/Coding Projects/Portfolio/3d Portfolio Website/3d portfolio/node_modules/.vite/three_examples_jsm_controls_OrbitControls.js",
+      "src": "/Users/bramd/Desktop/Coding Projects/Portfolio/3d Portfolio Website/3d portfolio/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "needsInterop": false
+    },
+    "three": {
+      "file": "/Users/bramd/Desktop/Coding Projects/Portfolio/3d Portfolio Website/3d portfolio/node_modules/.vite/three.js",
+      "src": "/Users/bramd/Desktop/Coding Projects/Portfolio/3d Portfolio Website/3d portfolio/node_modules/three/build/three.module.js",
+      "needsInterop": false
+    }
+  }
+}
